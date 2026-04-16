@@ -50,4 +50,3 @@ Dataset of 10 employees used as the base for 18 functions across 3 groups:
 This is my first Excel portfolio project, built as part of my journey into data analysis.
 I am actively developing my skills and looking for my first opportunity in the field.
 
-📬 Connect with me on [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE-HERE)
